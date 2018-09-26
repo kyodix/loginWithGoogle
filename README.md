@@ -1,6 +1,6 @@
 # loginWithGoogle
 
-firebase - login with google
+firebase - login with google <br>
 in terminal
 npm install -g firebase-tools
 firebase serve
